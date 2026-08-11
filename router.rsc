@@ -1,8 +1,8 @@
 # 2026-08-11 12:03:18 by RouterOS 7.24beta3
-# software id = JFA0-5XUI
+# software id = XXXXXXXXXX
 #
 # model = RB951Ui-2nD
-# serial number = HGA09SJ22RH
+# serial number = XXXXXXXXXXXXX
 /interface bridge
 add arp=reply-only name=Bridge-LAN port-cost-mode=short
 /interface ethernet
